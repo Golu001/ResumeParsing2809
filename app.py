@@ -1,7 +1,7 @@
 # Importing libraries
 from ntpath import join
 import re
-# from nltk.corpus.reader import lin
+from nltk.corpus.reader import lin
 from numpy.core.fromnumeric import size
 from pandas.core import series
 import streamlit as st
